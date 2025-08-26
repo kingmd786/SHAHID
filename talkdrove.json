@@ -1,0 +1,25 @@
+
+{
+"bot-name": "Drakonis-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ dev sung",
+  "logo": "https://files.catbox.moe/ygfz2e.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://suho-pair3.onrender.com/",
+    "owner-verification":"sungdev00@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. It starts with drakonis~",
+        "value":"",
+        "required": true
+        
+      },
+      
+    "OWNER_NUMBER": {
+      "description": "Enter owner number",
+      "required": false,
+      "value": "12363621958"
+
+    }  
+  }
+}
